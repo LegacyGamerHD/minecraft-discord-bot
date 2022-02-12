@@ -2,8 +2,7 @@
 
     "token": "your discord bot token",
 
-    "ipAddress": "mc.hypixel.net",
-    "port": "optional - the port of your minecraft server",
+    "ipAddress": "play.loyaltymc.net",
     "playersChannel": "9802980280282",
     "statusChannel": "3809390383",
     "updateInterval": "11min",
